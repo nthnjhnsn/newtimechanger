@@ -1,7 +1,7 @@
 # newtimechanger
 Misplaces niggas on ur screen so u get a reach effect on ur opponent
 
-http://www.mediafire.com/file/jcx1qknbbdqf266/TimeChanger-1.0.jar
+Look in the releases for a download.
 
 Commands:
 
