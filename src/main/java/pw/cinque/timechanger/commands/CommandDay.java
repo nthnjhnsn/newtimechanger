@@ -22,7 +22,7 @@ public class CommandDay extends CommandBase
     }
     
     public void processCommand(final ICommandSender sender, final String[] args) {
-	    if (args.length > 0) {
+	    if (args.length > 0 && !TimeChanger.a) {
 		    mc.ingameGUI.getChatGUI().getSentMessages().remove(mc.ingameGUI.getChatGUI().getSentMessages().size() - 1);
 	    }
 
